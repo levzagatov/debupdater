@@ -15,7 +15,7 @@ or click on file update-log in your home directory.
 <h3>If you want to help me, please email me to <a href="mailto:levzagatov@gmail.com" title="my email">levzagatov@gmail.com</a>.<br>Try our <a href="https://github.com/levzagatov/peaker">Peaker<a>.</h3>
 <h2>Русская версия</h2>
 <h3>Что это?</h3>
-Debupdater является полуграфическим приложением для обновления системы и других приложений в Debian-based дистрибутивах. Он лёгок в исользовании, разберётся даже тот, кто не знаком с Linux.
+Debupdater является полуграфическим приложением для обновления системы и других приложений в Debian-based дистрибутивах. Он лёгок в использовании, разберётся даже тот, кто не знаком с Linux.
 <h3>Как скачать Debupdater?</h3>
 Введите в терминал<br>
 git clone <a>https://github.com/levzagatov/debupdater.git</a>
